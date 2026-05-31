@@ -103,7 +103,7 @@ function AppLayout() {
                     <div style={styles.featureDesc}>快速定位节点和关系，支持属性全文检索</div>
                   </div>
                   <div style={styles.feature}>
-                    <div style={styles.featureIcon}>�</div>
+                    <div style={styles.featureIcon}>🔗</div>
                     <div style={styles.featureTitle}>图谱合并</div>
                     <div style={styles.featureDesc}>合并多个图谱，自动处理同名节点和属性冲突</div>
                   </div>
